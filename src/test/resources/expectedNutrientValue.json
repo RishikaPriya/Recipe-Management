@@ -1,0 +1,22 @@
+{
+  "ENERC_KCAL": {
+    "label": "Energy",
+    "quantity": 149,
+    "unit": "kcal"
+  },
+  "PROCNT_KCAL": {
+    "label": "Calories from protein",
+    "quantity": 31,
+    "unit": "kcal"
+  },
+  "FAT_KCAL": {
+    "label": "Calories from fat",
+    "quantity": 71,
+    "unit": "kcal"
+  },
+  "CHOCDF_KCAL": {
+    "label": "Calories from carbohydrates",
+    "quantity": 47,
+    "unit": "kcal"
+  }
+}

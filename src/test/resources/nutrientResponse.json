@@ -1,0 +1,29 @@
+{
+  "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_42a57bf9b06449f8893533410b6634ee",
+  "calories": 148,
+  "totalCO2Emissions": 746.2135921880001,
+  "co2EmissionsClass": "D",
+  "totalWeight": 244.0,
+  "totalNutrientsKCal": {
+    "ENERC_KCAL": {
+      "label": "Energy",
+      "quantity": 149,
+      "unit": "kcal"
+    },
+    "PROCNT_KCAL": {
+      "label": "Calories from protein",
+      "quantity": 31,
+      "unit": "kcal"
+    },
+    "FAT_KCAL": {
+      "label": "Calories from fat",
+      "quantity": 71,
+      "unit": "kcal"
+    },
+    "CHOCDF_KCAL": {
+      "label": "Calories from carbohydrates",
+      "quantity": 47,
+      "unit": "kcal"
+    }
+  }
+}
